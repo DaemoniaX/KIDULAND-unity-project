@@ -1,0 +1,16 @@
+README
+
+Informations générales:
+Ce jeu a été développé sur Unity 2D 2021.3.45f1 lors de mon année de terminale au lycée 2022-2023 puis 1-2 fois par an durant ma première et 2ème année, les études m'empêchant de réellement plonger dans le développement. C’est un jeu qui est basé sur le modèle de Kirby’s return to dream land et mario. Il est donc de type platformer 2D où le joueur peut affronter des ennemis sur différents niveaux. A terme, mon but serait d’amener le changement de capacité de Kidu, l’incarnation du joueur, et d’implémenter le multijoueur. Le changement de capacité est je pense assez simple a implémenter considérant le code. 
+Le jeu s'arrête au niveau 5, et les paliers ne sont affichés sur le menu que jusqu’au niveau 3. Il y a un tutoriel sous forme de panneaux sur le 1er niveau et je n’ai pas implémenté de système pour customiser ses touches.
+
+
+Versions:
+
+Privilégier les versions antérieures.
+
+KIDULAND LAUNCHER  est pour la version ANTÉRIEURE windows, il s’installe avec un installateur wizard et déclenche quasiment systématiquement une alerte de sécurité windows puisque le jeu n’est pas signé par une entreprise.
+
+KIDULAND.apk est une version ANTÉRIEURE android. Il s’installe comme tous les fichiers apk(téléchargez le fichier puis ouvrez le), et déclenche lui aussi une alerte/demande de confirmation puisque le fichier provient d’une source inconnue.
+
+KIDULAND_ANDROID.apk est une version UPTODATE android, mais les commandes toutch sont mal gérés lors d’une collision. Il s’installe comme tous les fichiers apk(téléchargez le fichier puis ouvrez le), et déclenche lui aussi une alerte/demande de confirmation puisque le fichier provient d’une source inconnue.
