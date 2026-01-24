@@ -10,6 +10,7 @@ Versions:
 Privilégier les versions antérieures.
 
 KIDULAND LAUNCHER  est pour la version ANTÉRIEURE windows, il s’installe avec un installateur wizard et déclenche quasiment systématiquement une alerte de sécurité windows puisque le jeu n’est pas signé par une entreprise.
+note 24/01/2026 : le service d'installation de mise a jour n'est plus maintenu, il n'est donc plus possible de lancer le .exe.
 
 KIDULAND.apk est une version ANTÉRIEURE android. Il s’installe comme tous les fichiers apk(téléchargez le fichier puis ouvrez le), et déclenche lui aussi une alerte/demande de confirmation puisque le fichier provient d’une source inconnue.
 
